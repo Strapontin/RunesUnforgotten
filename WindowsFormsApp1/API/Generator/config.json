@@ -1,0 +1,17 @@
+{
+  "swaggerFile": "./swagger.json",
+  "getSwaggerFromClient": false,
+  "modelNamespace": "WindowsFormsApp1.API.Models",
+  "interfaceNamespace": "WindowsFormsApp1.API.Interfaces",
+  "generationUtilsFullName": "WindowsFormsApp1.API.GenerationUtils",
+  "interfaceOutFolder": "../Interfaces",
+  "modelOutFolder": "../Models",
+  "classVisibility": "public",
+  "useProperties": true,
+  "includeEndpoints": null,
+  "excludeEndpoints": null,
+  "generateXmlDocs": true,
+  "addAttributeToParameters": true,
+  "addAttributeToMethods": true,
+  "onlyIncludeReferencedModels": true
+}
